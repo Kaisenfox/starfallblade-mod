@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "starfall",
+  "version": "${version}",
+  "name": "Starfall Blade",
+  "description": "A sword with flashy slash, starfall, dash and whirlwind animations.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.starfall.StarfallMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

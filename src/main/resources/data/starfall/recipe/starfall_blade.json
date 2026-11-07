@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "N",
+    "S",
+    "E"
+  ],
+  "key": {
+    "N": { "item": "minecraft:nether_star" },
+    "S": { "item": "minecraft:netherite_sword" },
+    "E": { "item": "minecraft:end_rod" }
+  },
+  "result": { "id": "starfall:starfall_blade", "count": 1 }
+}
